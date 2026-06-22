@@ -1,0 +1,8 @@
+#Represents product master information from a product management system
+
+product_id,product_name,category,price
+P101,Laptop,Electronics,1200
+P102,Mobile Phone,Electronics,800
+P103,Headphones,Accessories,100
+P104,Keyboard,Accessories,50
+P105,Monitor,Electronics,300
