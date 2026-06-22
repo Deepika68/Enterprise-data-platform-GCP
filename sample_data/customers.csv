@@ -1,0 +1,9 @@
+# Purpose
+Represents customer master data received from a source application.
+
+customer_id,customer_name,city,state
+1001,John Smith,New York,NY
+1002,Alice Johnson,Chicago,IL
+1003,Bob Brown,Seattle,WA
+1004,Emma Wilson,Dallas,TX
+1005,David Miller,Boston,MA
