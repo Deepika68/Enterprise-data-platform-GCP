@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "product_id": "P106",
+      "product_name": "Mouse",
+      "category": "Accessories",
+      "price": 25
+    },
+    {
+      "product_id": "P107",
+      "product_name": "Tablet",
+      "category": "Electronics",
+      "price": 600
+    }
+  ]
+}
